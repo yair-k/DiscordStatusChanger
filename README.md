@@ -3,7 +3,7 @@ Simple status changer for Discord with support for multiple text's and emojis. M
 
 Simply install the dependencies (with installer or custom) and run the program.
 
-#Preview
+# Preview
 
 ![xx](https://user-images.githubusercontent.com/74628243/115158931-ac1ec600-a05e-11eb-8f48-dd12bf5ef933.png)
 
